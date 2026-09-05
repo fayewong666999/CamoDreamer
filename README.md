@@ -1,5 +1,5 @@
 Implementation of "To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations" (ACMMM2026)
-<a href='https://arxiv.org/abs/2509.01107'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
+<a href='https://arxiv.org/abs/2607.17768'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
 > Wenzhuang Wang, [Yifan Zhao](https://zhao1f.github.io/), Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, [Jia Li](http://cvteam.net/members/lijia/upload/index.html)
 > <br>
 > State Key Laboratory of Virtual Reality Technology and Systems, SCSE&QRI, Beihang University, Geely Automobile Research Institute (Ningbo) Co., Ltd
