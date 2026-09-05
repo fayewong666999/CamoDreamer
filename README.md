@@ -7,7 +7,7 @@ Implementation of "To Blend In, First Decouple: Rethinking Camouflage Image Gene
 <img src="asset.jpg" width="800">
 
 ## News
-- **2025-8-20**: 🔥🔥🔥 We expect to make the code publicly available around November, before or around the time of ACM MM 2026.
+- **2025-8-20**: 🔥🔥🔥 We expect to make the code publicly available around November.
 - **2026-7-30**: 🔥🔥🔥 The generated results produced by our CamoDreamer can be downloaded from [here](https://drive.google.com/file/d/1Hl7cGwEGPnTnE4lj5okkl9Hf--cbDcZb/view?usp=sharing).
 - **2025-7-19**: 🔥🔥🔥 Our paper is accepted by ACMMM 2026 (Oral).
 
